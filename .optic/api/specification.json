@@ -1,1 +1,3 @@
-[]
+[{"BatchCommitStarted":{"batchId":"0b878511-9c53-44ad-ac29-881cc0dbc245","commitMessage":"Initialize specification attributes","eventContext":{"clientId":"anonymous","clientSessionId":"unknown-session","clientCommandBatchId":"0b878511-9c53-44ad-ac29-881cc0dbc245","createdAt":"2021-09-20T00:55:16.232156500+01:00"},"parentId":"root"}}
+,{"ContributionAdded":{"id":"metadata","key":"id","value":"e39e3531-266f-4127-959f-ec6736f964c8","eventContext":{"clientId":"anonymous","clientSessionId":"unknown-session","clientCommandBatchId":"0b878511-9c53-44ad-ac29-881cc0dbc245","createdAt":"2021-09-20T00:55:16.232156500+01:00"}}}
+,{"BatchCommitEnded":{"batchId":"0b878511-9c53-44ad-ac29-881cc0dbc245","eventContext":{"clientId":"anonymous","clientSessionId":"unknown-session","clientCommandBatchId":"0b878511-9c53-44ad-ac29-881cc0dbc245","createdAt":"2021-09-20T00:55:16.232156500+01:00"}}}]
